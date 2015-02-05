@@ -1,0 +1,33 @@
+{
+	"main": "js/dist/universal-hashing.js",
+	"scripts": {
+		"test": "./node_modules/.bin/aureooms-node-package-test",
+		"doc": "./node_modules/.bin/groc",
+		"build": "./node_modules/.bin/aureooms-node-package-build"
+	},
+	"dependencies": {},
+	"license": "AGPL-3.0",
+	"version": "0.0.0",
+	"bugs": {
+		"url": "https://github.com/aureooms/js-universal-hashing/issues"
+	},
+	"description": "universal hashing code bricks for JavaScript",
+	"devDependencies": {
+		"aureooms-node-package": "^2.0.2"
+	},
+	"author": "aureooms",
+	"keywords": [
+		"bricks",
+		"hashing",
+		"javascript",
+		"js",
+		"random",
+		"universal"
+	],
+	"name": "aureooms-js-universal-hashing",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aureooms/js-universal-hashing.git"
+	},
+	"homepage": "http://aureooms.github.io/js-universal-hashing/"
+}

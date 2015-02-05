@@ -1,0 +1,17 @@
+{
+	"src": "js/src/",
+	"out": "js/dist/",
+	"debug": false,
+	"name": "universal-hashing",
+	"code": {
+		"test": [
+			"test",
+			"js"
+		],
+		"main": [
+			"js",
+			"dist",
+			"universal-hashing.js"
+		]
+	}
+}
