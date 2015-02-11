@@ -1,0 +1,11 @@
+{
+	"description": "universal hashing code bricks for JavaScript",
+	"version": "0.0.1",
+	"repo": "aureooms/js-universal-hashing",
+	"scripts": [
+		"js/dist/universal-hashing.js"
+	],
+	"name": "aureooms-js-universal-hashing",
+	"license": "AGPL-3.0",
+	"main": "js/dist/universal-hashing.js"
+}
