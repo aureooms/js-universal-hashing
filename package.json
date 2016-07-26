@@ -13,7 +13,7 @@
 	},
 	"description": "universal hashing code bricks for JavaScript",
 	"devDependencies": {
-		"aureooms-node-package": "^2.0.2"
+		"aureooms-node-package": "^6.0.1"
 	},
 	"author": "aureooms",
 	"keywords": [
