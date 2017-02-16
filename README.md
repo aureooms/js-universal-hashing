@@ -3,7 +3,7 @@
 
 universal hashing code bricks for JavaScript
 
-[![NPM license](https://img.shields.io/npm/l/@aureooms/js-universal-hashing.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-universal-hashing/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-universal-hashing.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-universal-hashing/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-universal-hashing.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-universal-hashing)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-universal-hashing.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-universal-hashing)
 [![Build Status](https://img.shields.io/travis/aureooms/js-universal-hashing.svg?style=flat)](https://travis-ci.org/aureooms/js-universal-hashing)
