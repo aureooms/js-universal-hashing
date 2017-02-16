@@ -24,7 +24,7 @@
 		"random",
 		"universal"
 	],
-	"name": "aureooms-js-universal-hashing",
+	"name": "@aureooms/js-universal-hashing",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/aureooms/js-universal-hashing.git"
