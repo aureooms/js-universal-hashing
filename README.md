@@ -1,4 +1,4 @@
-[js-universal-hashing](http://aureooms.github.io/js-universal-hashing)
+[js-universal-hashing](http://make-github-pseudonymous-again.github.io/js-universal-hashing)
 ==
 
 universal hashing code bricks for JavaScript
