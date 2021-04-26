@@ -9,7 +9,7 @@
 	"license": "AGPL-3.0",
 	"version": "0.0.3",
 	"bugs": {
-		"url": "https://github.com/aureooms/js-universal-hashing/issues"
+		"url": "https://github.com/make-github-pseudonymous-again/js-universal-hashing/issues"
 	},
 	"description": "universal hashing code bricks for JavaScript",
 	"devDependencies": {
@@ -27,7 +27,7 @@
 	"name": "@aureooms/js-universal-hashing",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/aureooms/js-universal-hashing.git"
+		"url": "https://github.com/make-github-pseudonymous-again/js-universal-hashing.git"
 	},
 	"homepage": "http://make-github-pseudonymous-again.github.io/js-universal-hashing/"
 }
